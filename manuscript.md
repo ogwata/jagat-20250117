@@ -18,7 +18,9 @@ XML・CSS組版の動向と生成AI活用<br/>
 - HTMLとCSSにより文字・図版・写真などをページ上に配置すること
 - ページ組版用CSS仕様を実装することで実現
     - [CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/)
+        - ページネーション（ページによる区切り）のサポート
     - [CSS Generated Content for Paged Media Module](https://www.w3.org/TR/css-gcpm-3/)
+        - 版面を構成する柱、ノンブル等をサポート
 - Vivliostyleはその実装の一つ
 
 # さまざまなCSS組版アプリケーション
