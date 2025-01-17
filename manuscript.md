@@ -36,7 +36,7 @@ XML・CSS組版の動向と生成AI活用<br/>
 
 （★はオープンソース⁠）⁠
 
-# Vivliostyleの特徴
+# 他と比べたVivliostyleの特徴
 
 - **オープンソースであること**
     - [AGPLライセンス](https://gpl.mhatta.org/agpl.ja.html)
