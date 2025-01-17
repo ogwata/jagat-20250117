@@ -16,9 +16,12 @@ XML・CSS組版の動向と生成AI活用<br/>
 # CSS組版とは？
 
 - HTMLとCSSにより文字・図版・写真などをページ上に配置すること
+- ページ組版用CSS仕様を実装することで実現
+    - [CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/)
+    - [CSS Generated Content for Paged Media Module](https://www.w3.org/TR/css-gcpm-3/)
 - Vivliostyleはその実装の一つ
 
-# Vivliostyle以外のCSS組版アプリケーション
+# さまざまなCSS組版アプリケーション
 
 - [Antenna House Formatter](https://www.antenna.co.jp/AHF/)
 - [BFO Publisher](https://publisher.bfo.com/)
@@ -104,5 +107,6 @@ XML・CSS組版の動向と生成AI活用<br/>
 
 # Vivliostyleの課題と未来
 
-- Vivliostyleの課題はCSSの知識が必要なこと
-- CSSを知らなくてもVivliostyleで本を作れるシステムを開発中！
+- Vivliostyle Pubの課題はCSSの知識がないと本が作れないこと
+- CSSを知らなくても使えるようVivliostyle Pubのアップデートに着手
+- どうかご期待ください！
