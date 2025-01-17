@@ -113,6 +113,6 @@ XML・CSS組版の動向と生成AI活用<br/>
 # Vivliostyleの課題と未来
 
 - Webアプリのメリットはインストールなしに手軽に使えること
-- ところがVivliostyle PubはCSSの知識がないと本が作れない
+- ところが現状のVivliostyle PubはCSSの知識がないと本が作れない
 - CSSを知らなくても使えるようVivliostyle Pubのアップデートに着手
 - どうかご期待ください！
