@@ -61,12 +61,13 @@ XML・CSS組版の動向と生成AI活用<br/>
 
 # プロダクト②：Vivliostyle CLI
 
-- MarkdownをHTMLに変換する（VFM）
-- スタイルを切り替える（Themes）
-- 複数の原稿から本の形にまとめる
-- HTMLとCSSを処理し、ページに組み立てる（Vivliostyle.js）
-- CSS組版の結果をプレビューする（Vivliostyle Viewer）
-- PDFとEPUBを出力する
+- 機能
+    - MarkdownをHTMLに変換すること（VFM）
+    - スタイルを切り替えること（Themes）
+    - 複数の原稿から本の形にまとめること
+    - HTMLとCSSを処理し、ページに組み立てること（Vivliostyle.js）
+    - CSS組版の結果をプレビューすること（Vivliostyle Viewer）
+    - PDFとEPUBを出力すること
 
 # プロダクト②：Vivliostyle CLI
 
