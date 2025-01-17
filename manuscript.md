@@ -76,7 +76,7 @@ XML・CSS組版の動向と生成AI活用<br/>
 # プロダクト②：Vivliostyle Pub
 
 - Vivliostyle CLIをクラウド上に置いたもの
-- ユーザー管理その他必要な機構を加えたWebアプリ
+- Vivliostyle CLIにユーザー管理などの機構を加えたWebアプリ
 
 ![Vivliostyle Pubの構成](./images/fig-3.svg){width=82%}
 
