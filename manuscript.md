@@ -12,6 +12,8 @@ Vivliostyle Foundation<br/>
 2025年1月17日<br/>
 XML・CSS組版の動向と生成AI活用<br/>
 
+# ※このスライドはVivliostyle CLIで作成しました
+
 
 # CSS組版とは？
 
